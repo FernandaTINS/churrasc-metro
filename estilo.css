@@ -1,0 +1,17 @@
+.container {
+    max-width: 300px;
+    margin:auto;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input {
+    width: 100%; /*100% da largura do elemento pai*/
+    display: block; /* ocupa todo os espaço*/
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    background-color: rgb(250, 243, 233);
+}
