@@ -1,4 +1,4 @@
-# Churrascômetro
+# Churrascometro
 
 Desenvolvido para calcular a quantidade de carnes e bebidas que serão consumidas durante um churrasco, levando em consideração a quantidade de pessoas e duração.
 
